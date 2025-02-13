@@ -1,3 +1,5 @@
+package Sprint1;
+
 public class SumDigit {
     public static void main(String[] args) {
         int num = 1234;

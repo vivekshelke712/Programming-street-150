@@ -1,3 +1,5 @@
+package Sprint1;
+
 // Finding the Greatest Common Divisor (GCD)
 // Difficulty: Easy
 // Topics: Basic Programming, Number Theory
