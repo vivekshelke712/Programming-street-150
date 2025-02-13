@@ -122,7 +122,7 @@
     Output: `"gnimmargorp"`  
     Explanation: The reversed string of "programming" is "gnimmargorp".  
 
-14. **Finding the Largest and Smallest Numbers in an Array**  
+14. **Finding the Largest and Smallest Numbers in an Array**  ✅
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
     **Description**: Write a program to find the largest and smallest numbers in an array.  
@@ -131,7 +131,7 @@
     Output: `Largest: 8, Smallest: 1`  
     Explanation: The largest number in the array is 8 and the smallest is 1.  
 
-15. **Sorting an Array**  
+15. **Sorting an Array**  ✅
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Sorting Algorithms  
     **Description**: Write a program to sort an array of numbers in ascending order.  
