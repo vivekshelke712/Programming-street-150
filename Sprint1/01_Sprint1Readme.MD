@@ -140,7 +140,7 @@
     Output: `[1, 1, 3, 4, 5, 9]`  
     Explanation: The array sorted in ascending order is [1, 1, 3, 4, 5, 9].  
 
-16. **Finding the Sum of Elements in an Array**  
+16. **Finding the Sum of Elements in an Array**  ✅
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Arrays  
     **Description**: Write a program to find the sum of elements in an array.  
@@ -158,7 +158,7 @@
     Output: `[1, 153, 370, 371, 407]`  
     Explanation: Armstrong numbers between 1 and 500 are 1, 153, 370, 371, and 407.  
 
-18. **Generating Multiplication Tables**  
+18. **Generating Multiplication Tables**  ✅
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Mathematical Computations  
     **Description**: Write a program to generate multiplication tables for a given number.  
