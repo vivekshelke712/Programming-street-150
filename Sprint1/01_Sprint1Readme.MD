@@ -174,7 +174,7 @@
     ```  
     Explanation: The multiplication table for 4 up to 5 is generated.  
 
-19. **Finding Prime Numbers in a Range**  
+19. **Finding Prime Numbers in a Range**  ✅
     **Difficulty**: Easy  
     **Topics**: Basic Programming, Number Theory  
     **Description**: Write a program to find all prime numbers within a given range.  
